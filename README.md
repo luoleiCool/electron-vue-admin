@@ -1,4 +1,5 @@
 # vue2-electron-admin
+简单尝试 electron + vue + elementui 
 
 ## Project setup
 ```
